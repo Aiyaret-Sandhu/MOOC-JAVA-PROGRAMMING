@@ -1,3 +1,7 @@
+This Repository conatains my solutions to Mooc Java Programming I and II
+
+---
+
 # Solutions for MOOC Java Programming I and II 📚☕️
 
 Hey there! Welcome to my repository showcasing solutions for the MOOC Java Programming I and II offered by the University of Helsinki. 🎓
